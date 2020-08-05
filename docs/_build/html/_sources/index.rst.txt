@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to LSDj's unofficial documentation!
-================================
+===========================================
 
 .. toctree::
    :maxdepth: 2
