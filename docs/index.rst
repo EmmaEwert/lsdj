@@ -6,7 +6,7 @@
 LSDj Unofficial Documentation!
 ===========================================
 
-This is the unofficial documentation for the Game Boy music sequencer `Little Sound Dj <https://littlesounddj.com/>` (LSDj).
+This is the unofficial documentation for the Game Boy music sequencer `Little Sound Dj <https://littlesounddj.com/>`_ (LSDj).
 
 .. toctree::
    :maxdepth: 2
