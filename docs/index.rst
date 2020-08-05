@@ -13,5 +13,5 @@ This is the unofficial documentation for the Game Boy music sequencer `Little So
 	:caption: Contents:
 
 	manual/commands
-	manual/instruments
+	manual/basic-instruments
 	manual/effects
